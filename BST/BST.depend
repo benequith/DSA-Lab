@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625034008 source:c:\heritage lab\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1625034008 source:c:\heritagelab\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+

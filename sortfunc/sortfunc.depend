@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1625738057 source:c:\heritagelab\ds\sortfunc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1625642343 source:c:\heritagelab\ds\sortfunc\randfile.c
+

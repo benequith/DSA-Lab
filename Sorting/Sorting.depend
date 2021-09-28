@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625672238 source:c:\heritagelab\ds\sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

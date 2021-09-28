@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1624963428 source:c:\heritage lab\project 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1624962812 source:c:\heritage lab\project 1\addition.c
+
+1624962790 source:c:\heritage lab\project 1\division.c
+
+1624962853 source:c:\heritage lab\project 1\multiplication.c
+
+1624963054 source:c:\heritage lab\project 1\subtraction.c
+
+1625231952 source:c:\heritagelab\project 1\addition.c
+
+1625231939 source:c:\heritagelab\project 1\division.c
+
+1625232500 source:c:\heritagelab\project 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1625231964 source:c:\heritagelab\project 1\multiplication.c
+
+1625231992 source:c:\heritagelab\project 1\subtraction.c
+
+1625231885 source:c:\heritagelab\project 1\factorial.c
+

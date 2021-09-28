@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627037850 source:c:\heritagelab\ds\labexam\main.c
+	<stdio.h>
+	<stdlib.h>
+

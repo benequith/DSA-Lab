@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625231952 source:c:\heritagelab\calculator\addition.c
+
+1625231885 source:c:\heritagelab\calculator\factorial.c
+
+1625306021 source:c:\heritagelab\sumoffactorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
